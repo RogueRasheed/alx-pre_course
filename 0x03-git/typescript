@@ -1,0 +1,28 @@
+Script started on 2022-10-06 08:12:43-07:00 [TERM="xterm" TTY="/dev/pts/9" COLUMNS="80" LINES="24"]
+# git push --set-upstream orgin   igin update_script
+Password for 'https://{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}@github.com': 
+Enumerating objects: 9, done.
+Counting objects:  11% (1/9)Counting objects:  22% (2/9)Counting objects:  33% (3/9)Counting objects:  44% (4/9)Counting objects:  55% (5/9)Counting objects:  66% (6/9)Counting objects:  77% (7/9)Counting objects:  88% (8/9)Counting objects: 100% (9/9)Counting objects: 100% (9/9), done.
+Delta compression using up to 2 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 573 bytes | 573.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0)
+To https://github.com/RogueRasheed/alx-zero_day.git
+   f1ad7d4..69dafa8  update_script -> update_script
+Branch 'update_script' set up to track remote branch 'update_script' from 'origin'.
+# 
+# clear
+[H[2J[3J# git branch 
+[?1h=  master[m[m
+* [32mupdate_script[m[m
+[K[?1l># git checkout master
+Switched to branch 'master'
+Your branch is up to date with 'origin/master'.
+# git c brach  nch
+[?1h=* [32mmaster[m[m
+  update_script[m[m
+[K[?1l># cd bash
+# vi alx
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"alx" 2L, 23C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[34m#!/bin/bash[m
+[33mecho[m[31m [m[33m"[m[31mALX[m[33m"[m
+[1m[34m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H2,10[10CAll[2;10H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?12$pP+q6b32\P+q6b33\P+q6b34\P+q6b35\P+q6b36\[?25l[24;53H^[[2;10H[24;55HP[2;10H[24;56H0[2;10H[24;57H+[2;10H[24;58Hr[2;10H[24;59H2[2;10H[24;60H3[2;10H[24;61H3[2;10H[24;62H2[2;10H[24;53H          [2;10HP+q6b37\P+q6b38\P+q6b39\P+q6b3b\P+q4631\[?25hP+q4632\P+q2531\P+q2638\P+q6b62\P+q6b49\P+q6b44\[?25l[24;53H^[[
